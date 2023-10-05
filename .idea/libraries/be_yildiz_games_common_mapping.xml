@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="be.yildiz.games.common.mapping" type="repository">
+    <properties maven-id="be.yildiz-games:common-mapping:1.0.7" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/yildiz-games/common-mapping/1.0.7/common-mapping-1.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
